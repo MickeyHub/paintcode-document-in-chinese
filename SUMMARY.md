@@ -3,7 +3,7 @@
 * [概述](overview/overview.md)
 * [库]()
   * [核心概念](library/core_concepts.md)
-  * [颜色](library.colors.md)
+  * [颜色](library/colors.md)
   * [渐变色](library/gradients.md)
   * [阴影](library/shadows.md)
   * [图片](library/images.md)
