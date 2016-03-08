@@ -31,6 +31,6 @@
   * [调整约束](dynamic_shapes/resizing_constraints.md)
   * [框架与形状层次结构](dynamic_shapes/frame_and_shape_hierarchy.md)
   * [动态贝塞尔曲线](dynamic_shapes/dynamic_beziers.md)
-  * [动态形状与形变]()
+  * [动态形状与形变](dynamic_shapes/dynamic_shapes_and_transforms.md)
 * [符号]()
   * [使用符号](symbols/using_symbols.md)
