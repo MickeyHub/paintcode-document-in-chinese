@@ -1,5 +1,6 @@
 #概述
-<center>![paintcode](assets/paintcode.png)</center>
+<div style="text-align: center"><img src="assets/paintcode.png"/></div>
+
 PaintCode是一个矢量绘图软件,可以将你的绘图实时转成Objective-C，Swift,C#代码,软件窗口被分成几个部分,以便快速容易地访问你将会需要的东西.
 
 ##工具栏
